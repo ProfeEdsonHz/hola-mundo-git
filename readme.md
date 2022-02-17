@@ -7,8 +7,9 @@
 + git --version:
     >Me muestra mi versión actual de git.
 + git config --global user.name "usuario de github"
-    >Asigna mi usuario a mi compu.
-+ git config --global user.email "correo que corresponde al usuario"
+    >Asigna mi usuario a mi compu (local).
++ git config --global user.email "correo que corresponde al usuario de github"
+    >Asigna mi correo a mi compu (local).
 + git config user.name
     >Nos enseña el usuario actual.
 + git config user.email
