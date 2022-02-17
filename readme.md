@@ -41,3 +41,8 @@
     >Empuja la rama master a la ruta remota
 + git pull origin
     >Jala el repositorio desde la ruta remota.
+    + Al existir conflictos:
+        >Primero: seleccionar el cambio a mantener
+        >Segundo: Realizar un git add
+        >Tercero: Realizar un commit
+        >Esto solucionará el conflicto y me permitirá seguir trabajando.
