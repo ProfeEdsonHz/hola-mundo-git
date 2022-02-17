@@ -38,3 +38,5 @@
     >Agrega con el nombre origin la ruta remota
 + git push -u origin master
     >Empuja la rama master a la ruta remota
++ git pull origin
+    >Jala el repositorio desde la ruta remota.
