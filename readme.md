@@ -30,3 +30,11 @@
     Agrega a Stage todos los archivos
 + git commit -m "descripción"
     Agrega al repositorio todo lo que está en Stage con un nombre y marca de tiempo
++ git log
+    Nos muestra el historial e información de los commit
+
+### Comandos de repositorio remoto (github):
++ git remote add origin https://github.com/ProfeEdsonHz/hola-mundo.git
+    Agrega con el nombre origin la ruta remota
++ git push -u origin master
+    Empuja la rama master a la ruta remota
